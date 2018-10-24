@@ -1,0 +1,9 @@
+/Users/macbookpro/Documents/Edacy/javaProject/java-spring-security/src/main/java/com/projet/springsecurity/config/SecurityConfig.java
+/Users/macbookpro/Documents/Edacy/javaProject/java-spring-security/src/main/java/com/projet/springsecurity/controller/UserController.java
+/Users/macbookpro/Documents/Edacy/javaProject/java-spring-security/src/main/java/com/projet/springsecurity/repositories/UserRepository.java
+/Users/macbookpro/Documents/Edacy/javaProject/java-spring-security/src/main/java/com/projet/springsecurity/service/UserService.java
+/Users/macbookpro/Documents/Edacy/javaProject/java-spring-security/src/main/java/com/projet/springsecurity/service/security/AppAuthProvider.java
+/Users/macbookpro/Documents/Edacy/javaProject/java-spring-security/src/main/java/com/projet/springsecurity/controller/ClassController.java
+/Users/macbookpro/Documents/Edacy/javaProject/java-spring-security/src/main/java/com/projet/springsecurity/core/model/User.java
+/Users/macbookpro/Documents/Edacy/javaProject/java-spring-security/src/main/java/com/projet/springsecurity/SpringSecurityApplication.java
+/Users/macbookpro/Documents/Edacy/javaProject/java-spring-security/src/main/java/com/projet/springsecurity/exception/MyAccessDeniedHandler.java

@@ -1,0 +1,12 @@
+com/projet/springsecurity/config/SecurityConfig.class
+com/projet/springsecurity/controller/ClassController.class
+com/projet/springsecurity/repositories/UserRepository.class
+com/projet/springsecurity/config/SecurityConfig$AuthentificationLoginSuccessHandler.class
+com/projet/springsecurity/config/SecurityConfig$1.class
+com/projet/springsecurity/config/SecurityConfig$AuthentificationLogoutSuccessHandler.class
+com/projet/springsecurity/exception/MyAccessDeniedHandler.class
+com/projet/springsecurity/service/UserService.class
+com/projet/springsecurity/SpringSecurityApplication.class
+com/projet/springsecurity/core/model/User.class
+com/projet/springsecurity/controller/UserController.class
+com/projet/springsecurity/service/security/AppAuthProvider.class
